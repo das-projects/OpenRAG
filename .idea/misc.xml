@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="OpenRAG" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="OpenRAG" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="slora" project-jdk-type="Python SDK" />
 </project>
